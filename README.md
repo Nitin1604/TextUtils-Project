@@ -1,6 +1,6 @@
 **TextUtils Project****
 _______________________________________________________________________________________
-**** TextUtils project in Light mode ****
+TextUtils project in Light mode 
 _______________________________________________________________________________________
 ****About us section****
 I have made this project with the help of React JS which is the frameworks of JavaScript.
