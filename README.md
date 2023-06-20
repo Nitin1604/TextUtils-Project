@@ -22,7 +22,7 @@ ________________________________________________________________________________
                         Convert to Lowercase
  Any text written in text area will converted to lowercase when clicking on this button.
  ______________________________________________________________________________________
- Clear Text
+                          Clear Text
  Any text written in text area will are cleared when clicking on this button.
  ______________________________________________________________________________________
  **Copy Text**
