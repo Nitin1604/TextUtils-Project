@@ -16,7 +16,7 @@ ________________________________________________________________________________
  of these five buttons : "Convert to Uppercase" , "Convert to Lowercase" , "Clear Text" , 
  "Copy Text" , "Remove Extra Spaces" 
  _______________________________________________________________________________________
- **Convert to Uppercase**
+ Convert to Uppercase
  Any text written in text area will converted to uppercase when clicking on this button.
  _______________________________________________________________________________________
  **Convert to Lowercase**
