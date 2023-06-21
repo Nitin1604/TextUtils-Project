@@ -39,7 +39,8 @@ much time will take to read the whole sentences.
 _______________________________________________________________________________________
 Finally there is preview of words and sentences at the bottom of the web page 
 
-**Nothing to preview** is only mentioned when there is no words and sentence
+**Nothing to preview** 
+It is only mentioned when there is no words and sentence
 in the text area. When user is continously typing in the text area then the 
 preview will also change continously with typing.
 _______________________________________________________________________________________
