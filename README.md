@@ -46,6 +46,7 @@ in the text area. When user is continously typing in the text area then the
 preview will also change continously with typing.
 _______________________________________________________________________________________
 TextUtils project in Dark mode
+_______________________________________________________________________________________
 ****About us section****
 In this project i have made this project with the help of React JS , the color of the 
 About Us component is in yellow color and font color is in white color 
