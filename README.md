@@ -28,7 +28,7 @@ ________________________________________________________________________________
                          Copy Text
  Any text written in text area will be copied when clicking on this button.
  ______________________________________________________________________________________
-                       Remove Extra Spaces
+                         Remove Extra Spaces
  Any text written in text area will remove all extra spaces in between any two or 
  more then two words when clicking on this button.
 ________________________________________________________________________________________
