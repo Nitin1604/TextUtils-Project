@@ -70,13 +70,11 @@ ________________________________________________________________________________
 ****"Copy Text"**** 
 ____________________________________________________________________________________
 ****"Remove Extra Spaces"****
-
+____________________________________________________________________________________
 These are only works when these five buttons
 are not disabled that means user can only write in the text area when these buttons are
 not disabled and when these five buttons are disabled then the user can't write in the 
 text area.
 _____________________________________________________________________________________
-
 **SO THAT ALL ABOUT MY TEXT UTILS PROJECT**
-
 _______________________________________________________________________________________
