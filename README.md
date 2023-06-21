@@ -66,8 +66,9 @@ ________________________________________________________________________________
 ****"Convert to Lowercase"**** 
 ____________________________________________________________________________________
 ****"Clear Text"****  
-
+____________________________________________________________________________________
 ****"Copy Text"**** 
+
 ****"Remove Extra Spaces"****
 These are only works when these five buttons
 are not disabled that means user can only write in the text area when these buttons are
