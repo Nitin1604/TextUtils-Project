@@ -19,7 +19,7 @@ ________________________________________________________________________________
                           Convert to Uppercase
  Any text written in text area will converted to uppercase when clicking on this button.
  _______________________________________________________________________________________
-                        Convert to Lowercase
+                          Convert to Lowercase
  Any text written in text area will converted to lowercase when clicking on this button.
  ______________________________________________________________________________________
                           Clear Text
