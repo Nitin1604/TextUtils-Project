@@ -52,7 +52,8 @@ ________________________________________________________________________________
 In this project i have made this project with the help of React JS , the color of the 
 About Us component is in yellow color and font color is in white color 
 ______________________________________________________________________________________
-**** light mode to dark mode**** 
+****light mode to dark mode**** 
+
 When going from light mode to dark mode then alert message will come informing to the 
 user that the web page has been converted to light mode and same for when going from
 light mode to dark mode then alert message will come informing to the user that dark 
