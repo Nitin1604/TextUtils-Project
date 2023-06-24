@@ -18,7 +18,7 @@ turn upside when we want to show the text and turn downside when we want to hide
  In this section i have created a text area in which anything can be written for testing 
  of these five buttons : "Convert to Uppercase" , "Convert to Lowercase" , "Clear Text" , 
  "Copy Text" , "Remove Extra Spaces" 
- _______________________________________________________________________________________
+*************************************************************************************
                              Convert to Uppercase
  Any text written in text area will converted to uppercase when clicking on this button.
  _______________________________________________________________________________________
