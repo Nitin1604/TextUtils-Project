@@ -54,7 +54,7 @@ preview will also change continously with typing.
 TextUtils project in Dark mode
 *************************************************************************************
 ****About us section****
-_______________________________________________________________________________________
+*************************************************************************************
 In this project i have made this project with the help of React JS , the color of the 
 About Us component is in yellow color and font color is in white color 
 ______________________________________________________________________________________
