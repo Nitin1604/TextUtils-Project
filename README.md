@@ -24,7 +24,7 @@ turn upside when we want to show the text and turn downside when we want to hide
 *************************************************************************************
                              Convert to Lowercase
  Any text written in text area will converted to lowercase when clicking on this button.
- ______________________________________________________________________________________
+*************************************************************************************
                              Clear Text
  Any text written in text area will are cleared when clicking on this button.
  ______________________________________________________________________________________
