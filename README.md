@@ -42,6 +42,7 @@ turn upside when we want to show the text and turn downside when we want to hide
 Below these four buttons i have inserted a text summary that indicates how many words 
 and characters are there in a sentences and also there is a summary of words that how 
 much time will take to read the whole sentences.
+*************************************************************************************
 _______________________________________________________________________________________
 Finally there is preview of words and sentences at the bottom of the web page 
 _______________________________________________________________________________________
