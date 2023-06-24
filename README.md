@@ -29,8 +29,8 @@ turn upside when we want to show the text and turn downside when we want to hide
 *************************************************************************************
  Any text written in text area will are cleared when clicking on this button.
 *************************************************************************************
- ______________________________________________________________________________________
                              Copy Text
+*************************************************************************************
  Any text written in text area will be copied when clicking on this button.
  ______________________________________________________________________________________
                              Remove Extra Spaces
