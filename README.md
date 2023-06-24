@@ -4,7 +4,7 @@
                      TextUtils project in Light mode 
 *************************************************************************************
                             About us section 
-
+*************************************************************************************
 I have made this project with the help of React JS which is the frameworks of JavaScript.
 In this project i have created a navbar which contains components home and about 
 I have also created a dark mode toggle button which can be switch between dark mode and
@@ -12,7 +12,7 @@ light mode. When web page is in light mode then the color of background is white
 font color is black. About us has three collaspse which can be move upside and downside
 All three collaspse are moving upside and downside when clicking on arrow button which can 
 turn upside when we want to show the text and turn downside when we want to hide the text
-_________________________________________________________________________________________
+*************************************************************************************
                               Text Form
  In this section i have created a text area in which anything can be written for testing 
  of these five buttons : "Convert to Uppercase" , "Convert to Lowercase" , "Clear Text" , 
