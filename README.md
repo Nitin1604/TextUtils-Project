@@ -3,7 +3,7 @@ ________________________________________________________________________________
                      TextUtils project in Light mode 
 ____________________________________________________________________________________
                             About us section 
-*************************************************************************************
+____________________________________________________________________________________
 I have made this project with the help of React JS which is the frameworks of JavaScript.
 In this project i have created a navbar which contains components home and about 
 I have also created a dark mode toggle button which can be switch between dark mode and
