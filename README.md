@@ -11,7 +11,7 @@ light mode. When web page is in light mode then the color of background is white
 font color is black. About us has three collaspse which can be move upside and downside
 All three collaspse are moving upside and downside when clicking on arrow button which can 
 turn upside when we want to show the text and turn downside when we want to hide the text
-*************************************************************************************
+____________________________________________________________________________________
                               Text Form
 *************************************************************************************
  In this section i have created a text area in which anything can be written for testing 
