@@ -49,7 +49,7 @@ ________________________________________________________________________________
 It is only mentioned when there is no words and sentence
 in the text area. When user is continously typing in the text area then the 
 preview will also change continously with typing.
-*************************************************************************************
+____________________________________________________________________________________
 TextUtils project in Dark mode
 *************************************************************************************
 ****About us section****
