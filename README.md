@@ -63,7 +63,7 @@ When going from light mode to dark mode then alert message will come informing t
 user that the web page has been converted to light mode and same for when going from
 light mode to dark mode then alert message will come informing to the user that dark 
 mode has been enabled.
-*************************************************************************************
+____________________________________________________________________________________
 I have inserted five buttons that are
 ****"Convert to Uppercase"**** 
 ****"Convert to Lowercase"**** 
