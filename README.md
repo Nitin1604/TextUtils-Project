@@ -43,7 +43,7 @@ and characters are there in a sentences and also there is a summary of words tha
 much time will take to read the whole sentences.
 ____________________________________________________________________________________
 Finally there is preview of words and sentences at the bottom of the web page 
-*************************************************************************************
+____________________________________________________________________________________
 **Nothing to preview** 
 *************************************************************************************
 It is only mentioned when there is no words and sentence
