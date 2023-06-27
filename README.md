@@ -51,7 +51,7 @@ in the text area. When user is continously typing in the text area then the
 preview will also change continously with typing.
 ____________________________________________________________________________________
 TextUtils project in Dark mode
-*************************************************************************************
+____________________________________________________________________________________
 ****About us section****
 *************************************************************************************
 In this project i have made this project with the help of React JS , the color of the 
