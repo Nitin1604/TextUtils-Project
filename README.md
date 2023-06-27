@@ -36,7 +36,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
  Any text written in text area will remove all extra spaces in between any two or 
  more then two words when clicking on this button.
-*************************************************************************************
+____________________________________________________________________________________
           Text Summary below the four buttons that i have described above
 Below these four buttons i have inserted a text summary that indicates how many words 
 and characters are there in a sentences and also there is a summary of words that how 
