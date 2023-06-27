@@ -45,7 +45,7 @@ ________________________________________________________________________________
 Finally there is preview of words and sentences at the bottom of the web page 
 ____________________________________________________________________________________
 **Nothing to preview** 
-*************************************************************************************
+____________________________________________________________________________________
 It is only mentioned when there is no words and sentence
 in the text area. When user is continously typing in the text area then the 
 preview will also change continously with typing.
