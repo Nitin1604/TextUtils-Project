@@ -75,4 +75,4 @@ are not disabled that means user can only write in the text area when these butt
 not disabled and when these five buttons are disabled then the user can't write in the 
 text area.
 **SO THAT ALL ABOUT MY TEXT UTILS PROJECT**
-*************************************************************************************
+____________________________________________________________________________________
