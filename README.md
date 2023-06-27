@@ -12,7 +12,7 @@ font color is black. About us has three collaspse which can be move upside and d
 All three collaspse are moving upside and downside when clicking on arrow button which can 
 turn upside when we want to show the text and turn downside when we want to hide the text
 ____________________________________________________________________________________
-                            ****Text Form****
+                              Text Form
 ____________________________________________________________________________________
  In this section i have created a text area in which anything can be written for testing 
  of these five buttons : "Convert to Uppercase" , "Convert to Lowercase" , "Clear Text" , 
