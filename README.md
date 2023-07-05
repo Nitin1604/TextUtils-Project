@@ -68,7 +68,7 @@ I have inserted five buttons that are
 "Convert to Uppercase"
 "Convert to Lowercase"
 "Clear Text"  
-****"Copy Text"
+"Copy Text"
 ****"Remove Extra Spaces"****
 These are only works when these five buttons
 are not disabled that means user can only write in the text area when these buttons are
