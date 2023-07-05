@@ -67,7 +67,7 @@ ________________________________________________________________________________
 I have inserted five buttons that are
 "Convert to Uppercase"
 "Convert to Lowercase"
-****"Clear Text"  
+"Clear Text"  
 ****"Copy Text"**** 
 ****"Remove Extra Spaces"****
 These are only works when these five buttons
