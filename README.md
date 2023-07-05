@@ -65,11 +65,11 @@ light mode to dark mode then alert message will come informing to the user that 
 mode has been enabled.
 ____________________________________________________________________________________
 I have inserted five buttons that are
-"Convert to Uppercase"
-"Convert to Lowercase"
-"Clear Text"  
-"Copy Text"
-"Remove Extra Spaces"
+ [1] "Convert to Uppercase"
+ [2] "Convert to Lowercase"
+ [3] "Clear Text"  
+ [4] "Copy Text"
+ [5] "Remove Extra Spaces"
 These are only works when these five buttons
 are not disabled that means user can only write in the text area when these buttons are
 not disabled and when these five buttons are disabled then the user can't write in the 
