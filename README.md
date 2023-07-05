@@ -66,7 +66,7 @@ mode has been enabled.
 ____________________________________________________________________________________
 I have inserted five buttons that are
 "Convert to Uppercase"
-****"Convert to Lowercase"**** 
+****"Convert to Lowercase"
 ****"Clear Text"****  
 ****"Copy Text"**** 
 ****"Remove Extra Spaces"****
