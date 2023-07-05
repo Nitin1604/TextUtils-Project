@@ -65,7 +65,7 @@ light mode to dark mode then alert message will come informing to the user that 
 mode has been enabled.
 ____________________________________________________________________________________
 I have inserted five buttons that are
-****"Convert to Uppercase"
+"Convert to Uppercase"
 ****"Convert to Lowercase"**** 
 ****"Clear Text"****  
 ****"Copy Text"**** 
