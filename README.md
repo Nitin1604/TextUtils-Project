@@ -69,7 +69,7 @@ I have inserted five buttons that are
 "Convert to Lowercase"
 "Clear Text"  
 "Copy Text"
-****"Remove Extra Spaces"
+"Remove Extra Spaces"
 These are only works when these five buttons
 are not disabled that means user can only write in the text area when these buttons are
 not disabled and when these five buttons are disabled then the user can't write in the 
