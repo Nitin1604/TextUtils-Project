@@ -2,7 +2,7 @@
 ____________________________________________________________________________________
                      TextUtils project in Light mode   
 ____________________________________________________________________________________
-                            About us section 
+                            About us section  
 ____________________________________________________________________________________
 I have made this project with the help of React JS which is the frameworks of JavaScript.
 In this project i have created a navbar which contains components home and about 
